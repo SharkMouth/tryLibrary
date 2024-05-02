@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KalkulatorSuhu/1.0.0": {
+        "dependencies": {
+          "KonversiSuhuLibraries": "1.0.0"
+        },
+        "runtime": {
+          "KalkulatorSuhu.dll": {}
+        }
+      },
+      "KonversiSuhuLibraries/1.0.0": {
+        "runtime": {
+          "KonversiSuhuLibraries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KalkulatorSuhu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KonversiSuhuLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
